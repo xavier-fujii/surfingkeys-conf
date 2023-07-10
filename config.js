@@ -11,7 +11,7 @@ api.map("H", "S");
 api.map("L", "D");
 api.map("J", "E");
 api.map("K", "R");
-api.map("<ctrl-[", "esc");
+api.map("<ctrl-[>", "esc");
 
 // an example to remove mapkey `Ctrl-i`
 api.unmap("<ctrl-i>");
